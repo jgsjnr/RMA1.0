@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1537658026 source:c:\users\joseg\documents\ppgaucho\ppg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"includes/tens.h"
+	"aluno/pp.h"
+
+1537790240 c:\users\joseg\documents\ppgaucho\ppg\includes\tens.h
+
+1538748292 source:c:\users\joseg\documents\ppgaucho\ppg\includes\tens.c
+	<stdio.h>
+	<stdlib.h>
+	"tens.h"
+
+1537642554 c:\users\joseg\documents\ppgaucho\ppg\aluno\pp.h
+
+1538709418 source:c:\users\joseg\documents\ppgaucho\ppg\aluno\pp.c
+	<stdio.h>
+	"pp.h"
+	"../includes/tens.h"
+
+1537794197 source:c:\users\joseg\documents\ppgaucho\ppg\aluno\cg.c
+

@@ -1,0 +1,7 @@
+1.0.0.0 Versão inicial
+
+1.5.2.1 Versão aprimorada, duas funções especificas adicionadas, novo sistema de informação e salvamento atualização da forma de dados
+
+1.7.0.1 Versão aprimorada e bugs resolvidos, traducao e acrescentação de algumas coisas.
+
+1.8.0.0 Finalização e aprimoramento para transferencia via PDF.
